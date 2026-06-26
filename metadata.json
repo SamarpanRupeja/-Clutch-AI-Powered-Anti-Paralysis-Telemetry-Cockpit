@@ -1,0 +1,6 @@
+{
+  "name": "Clutch",
+  "description": "The active AI-powered productivity cockpit and companion to plan, prioritize, and capture critical tasks before they slip.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
